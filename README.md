@@ -1,7 +1,7 @@
-* Gestão Imobiliária com Laravel
+# Gestão Imobiliária com Laravel
 Este projeto é uma aplicação de gestão imobiliária, desenvolvida para simplificar e otimizar o gerenciamento de uma imobiliária. A aplicação abrange desde o cadastro de usuários até a gestão completa de imóveis alugados ou vendidos, utilizando o ecossistema Laravel.
 
-* Funcionalidades
+## Funcionalidades
 
 * **Cadastro de Usuários:** Permite o registro de administradores, corretores e clientes, com diferentes níveis de acesso e permissões.
 
@@ -15,7 +15,7 @@ Este projeto é uma aplicação de gestão imobiliária, desenvolvida para simpl
 
 * **Integração com API de Pagamentos:** Suporte para a integração com APIs de pagamento para facilitar transações financeiras.
 
-* Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Framework:** Laravel
 
@@ -25,13 +25,10 @@ Este projeto é uma aplicação de gestão imobiliária, desenvolvida para simpl
 
 * **Autenticação:** Laravel Passport/Sanctum
 
-* Código Fonte
-Você pode acessar o código fonte completo deste projeto no repositório GitHub.
-
-* Licença
+## Licença
 Este projeto é licenciado sob a GPLv3 License.
 
-* Como Contribuir
+## Como Contribuir
 1. Faça um fork deste repositório.
 
 2. Crie uma branch para a sua funcionalidade (`git checkout -b feature/NovaFuncionalidade`).
